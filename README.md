@@ -1,6 +1,5 @@
 # Zero-Shot Entity Framing with Large Language Models (Fane at SemEval-2025 Task 10)
 
----
 
 _This repository accompanies our submission to the **19th International Workshop on Semantic Evaluation (SemEval 2025) co-located with ACL 2025.**_ 
 
